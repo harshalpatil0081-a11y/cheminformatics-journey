@@ -2,8 +2,6 @@
 
 ## About Me
 - MSc Organic Chemistry
-- Ex-IISER Pune PhD researcher
-- First Author - Angewandte Chemie (Under Review)
 - Learning Cheminformatics & AI Drug Discovery
 
 ## What's Here
